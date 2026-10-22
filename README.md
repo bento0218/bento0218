@@ -28,7 +28,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 <a href="https://www.behance.net/bento0218">
   <img src="https://img.shields.io/badge/Behance-%40bento0218-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance @bento0218" />
 </a>
-<img src="https://img.shields.io/badge/Discord-bento0218.fps-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord bento0218.fps" />
+<a href="https://discord.com/users/1485491094593470534">
+  <img src="https://img.shields.io/badge/Discord-bento0218.fps-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord bento0218.fps" />
 </a>
 </p>
 
