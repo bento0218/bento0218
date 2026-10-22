@@ -16,8 +16,8 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/bento0218">
     <img src="https://img.shields.io/badge/GitHub-bento0218-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://x.com/b3nto0218">
-  <img src="https://img.shields.io/badge/X-%40b3nto0218-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @b3nto0218" />
+  <a href="https://x.com/bento0218">
+  <img src="https://img.shields.io/badge/X-%40b3nto0218-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @bento0218" />
 </a>
   <a href="https://www.tiktok.com/@b3nt0o218">
     <img src="https://img.shields.io/badge/TikTok-@b3nt0o218-000000?style=for-the-badge&logo=tiktok" />
